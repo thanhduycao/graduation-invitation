@@ -1,6 +1,7 @@
 'use client';
 
 import { useSearchParams } from 'next/navigation';
+import { Suspense } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 import personalizedContent from '@/data/personalized-content.json';
@@ -8,6 +9,8 @@ import personalizedContent from '@/data/personalized-content.json';
 export default function Invitation() {
   const searchParams = useSearchParams();
   const visitorName = searchParams.get('name') || 'Guest';
+  // let params = new URLSearchParams(document.location.search);
+  // let visitorName = params.get("name") || "G"; // is the string "Jonathan"
 
   // Find personalized content or use default
   const guestContent = personalizedContent.guests.find(
@@ -15,6 +18,7 @@ export default function Invitation() {
   ) || personalizedContent.default;
 
   return (
+    <Suspense>
     <div className="min-h-screen flex flex-col items-center justify-center p-8 bg-gradient-to-b from-purple-100 to-pink-100 dark:from-purple-900 dark:to-pink-900">
       <div className="max-w-2xl w-full bg-white dark:bg-gray-800 rounded-lg shadow-xl p-8 m-4 text-center">
         <h1 className="text-4xl font-bold mb-6 text-purple-600 dark:text-purple-400">
@@ -112,5 +116,6 @@ export default function Invitation() {
         </Link>
       </div>
     </div>
+    </Suspense>
   );
 }
