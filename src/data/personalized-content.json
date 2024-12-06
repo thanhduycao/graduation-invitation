@@ -1,0 +1,167 @@
+{
+  "guests": [
+    {
+      "name": "Nguyễn Minh An",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Đi Hà Nội vui vẻ nha An! Hôm nay Duy viết tấm thiệp mời này như một kỷ niệm để chúng ta cùng nhau lưu giữ kỷ niệm ngày tốt nghiệp của Duy. Cảm ơn An vì đã luôn giúp đỡ và đồng hành cùng mình trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Cảm ơn An vì tất cả những lúc đã cùng ngồi lại chia sẻ, tâm sự cùng Duy trong suốt hành trình 4 năm này!",
+      "specialImage": ["/memories/an-photo.jpg"]
+    },
+    {
+      "name": "Nguyễn Thị Thu",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Nhớ lại hồi nào còn giành nhau cái bánh trong lớp, hay những lúc ra cà phê ngồi học bài, chơi board game. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Hôm nay Duy viết tấm thiệp mời này mong Thu có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Thu vì đã luôn đồng hành cùng mình trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/thu-photo.jpg"]
+    },
+    {
+      "name": "Nguyễn Thị Anh Thy",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Nhớ hồi nào còn hay qua nhà Thy chơi cờ cá ngựa. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Hôm nay Duy viết tấm thiệp mời này mong Thy có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Thy vì đã luôn đồng hành cùng mình trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/thu-photo.jpg"]
+    },
+    {
+      "name": "Trần Xuân Nghĩa",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Trong suốt khoảng thời gian đại học, tui vẫn luôn nhận được lời động viên và tâm sự từ ông, điều đó thật sự tui rất trân quý. Hôm nay tui viết tấm thiệp mời này mong ông có thể đến chung vui với tui trong ngày tốt nghiệp của mình. Cảm ơn ông vì đã luôn đồng hành cùng tui trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/thu-photo.jpg", "/memories/nghia-photo-01.jpg", "/memories/nghia-photo-02.jpg"]
+    },
+    {
+      "name": "Phan Đình Anh Quân",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Có lẽ Quân là người gắn bó và gần gũi với mình nhất trong suốt thời gian đại học vì chúng ta học cùng ngành. Hôm nay Duy viết tấm thiệp mời này mong Quân có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Quân vì đã luôn đồng hành, giúp đỡ, debug cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/aq-photo-01.jpg", "/memories/aq-photo-02.jpg"]
+    },
+    {
+      "name": "Nguyễn Quang Nhật",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Nhớ hồi nào còn đèo nhau đi chơi bóng rổ mà giờ tốt nghiệp, trưởng thành hết rồi. Hôm nay Duy viết tấm thiệp mời này mong Nhật có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Nhật vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/thu-photo.jpg"]
+    },
+    {
+      "name": "Phan Minh Quân",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Thân nhau kể từ những buổi học tiếng anh VUS, rồi đi phượt Cần Giờ, những buổi đá banh, những kỷ niệm đó đóng một vai trò quan trọng trong suốt chặng đường của Duy vừa qua. Hôm nay Duy viết tấm thiệp mời này mong Quân có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Quân vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/nghia-photo-01.jpg", "/memories/mq-photo.jpg"]
+    },
+    {
+      "name": "Trần Xuân Bách",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Dù rất muốn viết thiệp nghiêm túc nhưng nhớ tới XB là lại mắc cười, nhớ những tài liệu quý giá và meme mà XB gửi cho. Thôi thì quay lại chủ đề chính, hôm nay Duy viết tấm thiệp mời này mong Bách có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Bách vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/xb-photo.jpg"]
+    },
+    {
+      "name": "Lê Hữu Khương",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Nhớ hồi nào còn ngồi kế chỉ bài cho nhau. Hôm nay Duy viết tấm thiệp mời này mong Khương có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Khương vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend"
+    },
+    {
+      "name": "Lê Thanh Tài",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Nhớ hồi nào còn ngồi kế chỉ bài cho nhau. Hôm nay Duy viết tấm thiệp mời này mong Tài có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Tài vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend"
+    },
+    {
+      "name": "Bùi Tuấn Kiệt",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Nhớ hồi nào còn ngồi kế chỉ bài cho nhau. Hôm nay Duy viết tấm thiệp mời này mong Kiệt có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Kiệt vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend"
+    },
+    {
+      "name": "Trần Minh Tuấn",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Vì học cùng ngành nên có những câu chuyện chúng ta có thể chia sẻ và giúp đỡ nhau, Duy thật sự rất trân quý điều đó. Hôm nay Duy viết tấm thiệp mời này mong Tuấn có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Tuấn vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend"
+    },
+    {
+      "name": "Hoàng Lê Anh Tuấn",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Trong suốt thời gian qua, Tuấn đã luôn giúp đỡ Duy về các kiến thức y khoa và sức khỏe. Hôm nay Duy viết tấm thiệp mời này mong Tuấn có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Tuấn vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend"
+    },
+    {
+      "name": "Nguyễn Minh Phương",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Thân nhau kể từ những buổi học tiếng anh VUS, rồi đi phượt Cần Giờ, những buổi đá banh, những kỷ niệm đó đóng một vai trò quan trọng trong suốt chặng đường của Duy vừa qua. Hôm nay Duy viết tấm thiệp mời này mong Quân có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Quân vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/mp-photo.jpg"]
+    },
+    {
+      "name": "Bùi Thị Thiên Kiều",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Hôm nay Duy viết tấm thiệp mời này mong Pặc Nơ có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Pặc Nơ vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/tk-photo.jpg"]
+    },
+    {
+      "name": "Nguyễn Thị Ngọc Thảo",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. 12A1 tụi mình vậy mà cũng đã gắn bó được với nhau xuyên suốt từ thời cấp 3 cho tới bây giờ. Hôm nay Duy viết tấm thiệp mời này mong Thảo có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Thảo vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "A1 Friend"
+    },
+    {
+      "name": "Nguyễn Minh Khoa",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của anh rồi, nhanh ghê. Hôm nay anh viết tấm thiệp mời này mong Khoa có thể đến chung vui với anh trong ngày tốt nghiệp của mình. Cảm ơn Khoa vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "BENIT Fellow",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/tk-photo.jpg"]
+    },
+    {
+      "name": "Phạm Hữu Phúc",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Hôm nay Duy viết tấm thiệp mời này mong Phúc có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Phúc vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "HCMUS Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/phuc-photo.jpg"]
+    },
+    {
+      "name": "Nguyễn Minh Khôi",
+      "message": "Hôm nay em viết tấm thiệp mời này mong anh Khôi có thể đến chung vui với em trong ngày tốt nghiệp của mình. Từ những ngày đầu hướng nghiệp khi còn là một cậu học sinh lớp 12, trong suốt 4 năm học và tới khi ra trường, anh Khôi luôn hỗ trợ, tư vấn cho em rất nhiệt tình và giúp em định hướng tốt hơn. Cảm ơn anh Khôi đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua. ",
+      "role": "HCMUS Friend",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/akhoi-photo.jpg"]
+    },
+    {
+      "name": "Mai Hoàng Anh",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn 2 năm nhưng BEE Club và Specialist đã trở thành một mảnh ký ức rất đẹp của Duy trong suốt những năm tháng đại học, ở đó Duy gặp được những người bạn, người anh, người chị rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Hôm nay Duy viết tấm thiệp mời này mong Leo có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Leo vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "BEE Specialist",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/akhoi-photo.jpg"]
+    },
+    {
+      "name": "Nguyễn Thọ Khánh Hòa",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn 2 năm nhưng BEE Club và Specialist đã trở thành một mảnh ký ức rất đẹp của Duy trong suốt những năm tháng đại học, ở đó Duy gặp được những người bạn, người anh, người chị rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Hôm nay Duy viết tấm thiệp mời này mong Leo có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Leo vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "BEE Specialist",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/akhoi-photo.jpg"]
+    },
+    {
+      "name": "Nguyễn Minh Phúc Lộc",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn 2 năm nhưng BEE Club và Specialist đã trở thành một mảnh ký ức rất đẹp của Duy trong suốt những năm tháng đại học, ở đó Duy gặp được những người bạn, người anh, người chị rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Hôm nay Duy viết tấm thiệp mời này mong Leo có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Leo vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "BEE Specialist",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/akhoi-photo.jpg"]
+    },
+    {
+      "name": "Trần Hiếu Thảo",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn 2 năm nhưng BEE Club và Specialist đã trở thành một mảnh ký ức rất đẹp của Duy trong suốt những năm tháng đại học, ở đó Duy gặp được những người bạn, người anh, người chị rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Hôm nay Duy viết tấm thiệp mời này mong Leo có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Leo vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "BEE Specialist",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/akhoi-photo.jpg"]
+    },
+    {
+      "name": "Đoàn Thành Đạt",
+      "message": "Vậy là cũng tấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn 2 năm nhưng BEE Club và Specialist đã trở thành một mảnh ký ức rất đẹp của Duy trong suốt những năm tháng đại học, ở đó Duy gặp được những người bạn, người anh, người chị rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Hôm nay Duy viết tấm thiệp mời này mong Leo có thể đến chung vui với Duy trong ngày tốt nghiệp của mình. Cảm ơn Leo vì đã luôn đồng hành, giúp đỡ cùng Duy trong suốt chặng đường vừa qua.",
+      "role": "BEE Specialist",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/akhoi-photo.jpg"]
+    }
+
+  ],
+  "default": {
+    "message": "You are cordially invited to celebrate our graduation ceremony",
+    "role": "Guest",
+    "specialNote": "Thank you for being part of this special moment.",
+    "specialImage": null
+  }
+}
