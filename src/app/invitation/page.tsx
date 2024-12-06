@@ -97,7 +97,7 @@ export default function Invitation() {
 
         <div className="mt-8 border-t pt-8">
           <p className="text-gray-600 dark:text-gray-400 italic">
-            "Good things take time."
+            Good things take time.
           </p>
           <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">
             - Quote
