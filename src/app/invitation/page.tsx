@@ -13,7 +13,7 @@ function InvitationContent() {
 
   // Find personalized content or use default
   const guestContent = personalizedContent.guests.find(
-    guest => guest.name.toLowerCase() === visitorName.toLowerCase()
+    guest => guest.name.toLowerCase() === visitorName.toLowerCase().trim()
   ) || personalizedContent.default;
 
   return (

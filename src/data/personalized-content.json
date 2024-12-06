@@ -159,8 +159,42 @@
       "role": "BEE Specialist",
       "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
       "specialImage": ["/memories/bee-photo.jpg"]
+    },
+    {
+      "name": "Lê Thị Phương Vy",
+      "message": "Vậy là cũng thấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn hơn 1 năm nhưng team research tại Katalon đã trở thành một mảnh ký ức rất đẹp của tui trong suốt những năm tháng đại học, ở đó tui gặp được những người bạn, người anh rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Trong suốt thời gian ở Katalon, bà là người làm việc gần gũi với tui nhất, được làm việc cùng với bà, tâm sự chuyện nghiên cứu, chuyện cuộc sống, những điều ấy đã giúp tui trưởng thành hơn rất nhiều trong thời gian vừa qua. Hôm nay tui viết tấm thiệp mời này mong Vy có thể đến chung vui với tui trong ngày tốt nghiệp của mình. Cảm ơn Vy vì đã luôn đồng hành, giúp đỡ cùng tui trong suốt chặng đường vừa qua.",
+      "role": "Katalian",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/katalon-photo-01.jpg", "/memories/katalon-photo-02.jpg", "/memories/katalon-photo-03.jpg"]
+    },
+    {
+      "name": "Huỳnh Minh Hiếu",
+      "message": "Vậy là cũng thấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn hơn 1 năm nhưng team research tại Katalon đã trở thành một mảnh ký ức rất đẹp của em trong suốt những năm tháng đại học, ở đó em gặp được những người bạn, người anh rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Trong suốt thời gian ở Katalon, em luôn được anh Hiếu tận tình hướng dẫn, tâm sự chuyện nghiên cứu, những điều ấy đã giúp em trưởng thành hơn rất nhiều trong thời gian vừa qua. Hôm nay em viết tấm thiệp mời này mong anh Hiếu có thể đến chung vui với em trong ngày tốt nghiệp của mình. Cảm ơn anh Hiếu vì đã luôn đồng hành, giúp đỡ cùng em trong suốt chặng đường vừa qua.",
+      "role": "Katalian",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/katalon-photo-01.jpg", "/memories/katalon-photo-02.jpg", "/memories/katalon-photo-03.jpg"]
+    },
+    {
+      "name": "Lê Quốc Trí",
+      "message": "Vậy là cũng thấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn hơn 1 năm nhưng team research tại Katalon đã trở thành một mảnh ký ức rất đẹp của em trong suốt những năm tháng đại học, ở đó em gặp được những người bạn, người anh rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Trong suốt thời gian ở Katalon, em luôn được anh Trí tận tình hướng dẫn, tâm sự chuyện nghiên cứu, những điều ấy đã giúp em trưởng thành hơn rất nhiều trong thời gian vừa qua. Hôm nay em viết tấm thiệp mời này mong anh Hiếu có thể đến chung vui với em trong ngày tốt nghiệp của mình. Cảm ơn anh Trí vì đã luôn đồng hành, giúp đỡ cùng em trong suốt chặng đường vừa qua.",
+      "role": "Katalian",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/katalon-photo-01.jpg", "/memories/katalon-photo-02.jpg", "/memories/katalon-photo-03.jpg"]
+    },
+    {
+      "name": "Phạm Thị Quỳnh Như",
+      "message": "Vậy là cũng thấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn hơn 1 năm nhưng team research tại Katalon đã trở thành một mảnh ký ức rất đẹp của tui trong suốt những năm tháng đại học, ở đó em gặp được những người bạn, người anh rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Hôm nay tui viết tấm thiệp mời này mong Như có thể đến chung vui với tui trong ngày tốt nghiệp của mình. Cảm ơn Như vì đã luôn đồng hành, giúp đỡ cùng em trong suốt chặng đường vừa qua.",
+      "role": "Katalian",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/katalon-photo-01.jpg"]
+    },
+    {
+      "name": "Trần Hữu Thiên",
+      "message": "Vậy là cũng thấm thoát tới buổi lễ tốt nghiệp của Duy rồi, nhanh ghê. Dù chỉ vỏn vẻn hơn 1 năm nhưng team research tại Katalon đã trở thành một mảnh ký ức rất đẹp của em trong suốt những năm tháng đại học, ở đó tui gặp được những người bạn, người anh rất thân, cùng nhau trò chuyện, chia sẻ và giúp đỡ nhau. Hôm nay em viết tấm thiệp mời này mong Thiên có thể đến chung vui với tui trong ngày tốt nghiệp của mình. Cảm ơn Thiên vì đã luôn đồng hành, giúp đỡ cùng em trong suốt chặng đường vừa qua.",
+      "role": "Katalian",
+      "specialNote": "Một chút kỷ niệm về những tháng ngày cùng nhau, chúng ta đã trải qua bao nhiêu điều vui buồn, hãy cùng nhau lưu giữ những kỷ niệm đó nhé!",
+      "specialImage": ["/memories/katalon-photo-01.jpg"]
     }
-
   ],
   "default": {
     "message": "You are cordially invited to celebrate our graduation ceremony",
